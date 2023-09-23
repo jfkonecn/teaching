@@ -4,5 +4,6 @@ course = "Python for Beginners"
 print(course.upper())
 
 print(course.lower())
+# point out case sensitive
 print(course.find("y"))
 print(course.replace("Beginners", "Absolute Beginners"))
