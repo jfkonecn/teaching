@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 https://github.com/jfkonecn/teaching.git
 whiteboard.py
+
+.vscode
